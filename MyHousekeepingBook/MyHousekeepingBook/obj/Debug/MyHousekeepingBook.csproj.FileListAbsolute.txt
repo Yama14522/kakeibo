@@ -1,0 +1,11 @@
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe.config
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.pdb
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.AssemblyReference.cache
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Properties.Resources.resources
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.GenerateResource.cache
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.exe
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.pdb
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.ItemForm.resources
+C:\Users\B0021012\source\repos\MyHousekeepingBook\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Form1.resources
